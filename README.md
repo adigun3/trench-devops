@@ -7,4 +7,4 @@ In addition, the cost effectiveness and saving resulting from the real time moni
 
 
 # Provenance
-
+This project involves deploying Trench as a containerized application with monitoring to determine the latency and network traffic impact Trench has on incoming request. I containerized and deployed the Trench system as a fully containerized application in a simulated production environment. This tool provides and detecting malicious requests early, however this process impacts latency and subsequently user experience. In the light of this, I also monitored the application performance to provide feasibility, auto-scalling and quick intervention into the distributed computing when the bottleneck in traffic arise. 
