@@ -7,4 +7,7 @@ In addition, the cost effectiveness and saving resulting from the real time moni
 
 
 # Provenance
-This project involves deploying Trench as a containerized application and monitored to determine the latency and network traffic impact Trench has on incoming request. I deployed the application with a docker image as a fully containerized application in a simulated production environment. This Trench tool provides and detect malicious requests early, however this process impacts latency and subsequently user experience. In the light of this, I also monitored the application for performance using Prometheus and Grafana to provide feasibility, auto-scalling and quick intervention into the distributed computing when the bottleneck in traffic arise. 
+This project involves deploying Trench as a containerized application and monitored to determine the latency and network traffic impact Trench has on incoming request. I deployed the application with a docker image as a fully containerized application in a simulated production environment. This Trench tool provides and detect malicious requests early, however this process impacts latency and subsequently user experience. In the light of this, I also monitored the application for performance using Prometheus and Grafana to provide feasibility, auto-scalling and quick intervention into the distributed computing when the bottleneck in traffic arise.
+
+![Trench](https://github.com/Chukudubem/trench/blob/master/images/trench.png?raw=true)
+ 
