@@ -12,3 +12,6 @@ This project involves deploying Trench as a containerized application and monito
 ![Trench](https://github.com/Chukudubem/trench/blob/master/images/trench.png?raw=true)
  
 ![Dokerization](Dokerfile_img.GIF)
+
+# Monitoring of the Container 
+https://github.com/stefanprodan/dockprom
