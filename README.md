@@ -19,7 +19,7 @@ This project involves deploying Trench as a containerized application and monito
 
 # System Architecture
 
-
+![System-Architecture](System-diagram_img.GIF)
 
 # Monitoring of the Container 
 https://github.com/stefanprodan/dockprom
