@@ -17,5 +17,9 @@ This project involves deploying Trench as a containerized application and monito
  
 ![Dokerization](Dokerfile_img.GIF)
 
+# System Architecture
+
+
+
 # Monitoring of the Container 
 https://github.com/stefanprodan/dockprom
