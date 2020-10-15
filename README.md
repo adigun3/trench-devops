@@ -29,4 +29,4 @@ I monitored the containerized application using the Prometheus and Node Exporter
 
 https://github.com/stefanprodan/dockprom
 
-![Monitoring of the Container](Trench running on Grafana.GIF)
+![Dokerization](Dokerfile_img.GIF)
