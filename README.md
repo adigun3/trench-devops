@@ -26,6 +26,8 @@ I ustilized AWS, Docker, Prometheus, and Grafana to deploy and monitored the Tre
 There is need for real time monitoring and visualization of metrics to resolve and prevent performance issues and provide auto-scaling to meet latency and traffic network problems.
 I monitored the containerized application using the Prometheus and Node Exporter to scrape the metrics from the clusters ECS whenever the Trench tool is running. These metrics were relayed and forwarded to Grafana tool to provide visualization of the metrics through the dashboard. An Alertmanager is added to the monitoring tools and configured to create an alert through slacks and emails whenever the metrics are beyound the setup thresholds. The monitoring and alert tools were cloned from a GitHub repository (shown in the link below).  
 
+![Grafana Dashboard](Trench running on Grafana.GIF)
+
 
 https://github.com/stefanprodan/dockprom
 
