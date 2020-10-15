@@ -28,3 +28,5 @@ I monitored the containerized application using the Prometheus and Node Exporter
 
 
 https://github.com/stefanprodan/dockprom
+
+![Grafana Dashboard](Trench running on Grafana.GIF)
