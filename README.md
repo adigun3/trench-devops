@@ -18,6 +18,7 @@ This project involves deploying Trench as a containerized application and monito
 ![Dokerization](Dokerfile_img.GIF)
 
 # System Architecture
+I ustilized AWS, Docker, Prometheus, and Grafana to deploy and monitored the Trench application. The system was set up in an AWS Virtual Private Cloud (VPC), the docker container was pushed into an Elastic Container Repository (ECR)in AWS. The Elastic Container Services was then used to launch series of EC2 clusters to run the application. The terraform tool was used in building and provisioning the infrastruture.
 
 ![System-Architecture](System-diagram.jpg)
 
