@@ -11,6 +11,10 @@ This project involves deploying Trench as a containerized application and monito
 
 ![Trench](https://github.com/Chukudubem/trench/blob/master/images/trench.png?raw=true)
  
+ # Dockerization
+ The Trench system was dockerized to make it portable and run independently of other applications. It also provides security and any inteference from other microsercices.
+ I built the docker image to comprise the Joy tools, Trench systems, the dependencies and the Pcap files.
+ 
 ![Dokerization](Dokerfile_img.GIF)
 
 # Monitoring of the Container 
